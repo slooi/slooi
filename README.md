@@ -2,9 +2,9 @@
 
 ## Welcome to my GitHub space! 👋
 
-I'm a software developer and type safety enjoyer. 
+I'm a software developer and type safety enjoyer
 
-My favourite languages are Typescript and Python
+My favourite languages are Typescript and Python (preferably with type hints 😊)
 
 I love designing an building projects that involving web development 🌐, multiplayer experiences 🤼‍♂️, machine learning algorithms 🤖 or graphics programming 🎨
 
