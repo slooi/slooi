@@ -29,9 +29,9 @@ I love designing an building projects that involving web development 🌐, multi
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Zod](https://img.shields.io/badge/-Zod-2C3239?style=flat-square)
+![Zod](https://img.shields.io/badge/-Zod-3068b7?style=flat-square)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![WebSockets](https://img.shields.io/badge/-WebSockets-4AC959?style=flat-square)
+![WebSockets](https://img.shields.io/badge/-WebSockets-000000?style=flat-square)
 ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
 
 **Cloud Know-How**:
