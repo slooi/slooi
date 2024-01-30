@@ -9,14 +9,16 @@ I love designing an building projects that involving web development 🌐, multi
 
 
 ## 🛠️ Tech Toolbox:
-**Languages**: 
+**Languages**:
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F4DC1B?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Technologies**: 
+**Technologies**:
+
 ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
@@ -32,12 +34,12 @@ I love designing an building projects that involving web development 🌐, multi
 ![WebSockets](https://img.shields.io/badge/-WebSockets-4AC959?style=flat-square)
 ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
 
-**Cloud Know-How**: 
+**Cloud Know-How**:
+
 ![AWS EC2](https://img.shields.io/badge/-AWS_EC2-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure App Service](https://img.shields.io/badge/-Azure_App_Service-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
 ![Oracle Cloud Compute](https://img.shields.io/badge/-Oracle_Cloud_Compute-F80000?style=flat-square&logo=oracle&logoColor=white)
-
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=slooi&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats/)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slooi&layout=compact" align=left/>
