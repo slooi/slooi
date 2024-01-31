@@ -33,6 +33,7 @@ I love designing and building projects that involve web development 🌐, multip
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/-WebSockets-000000?style=flat-square)
 ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
+![PySide6](https://img.shields.io/badge/-PySide6-3ECA4F?style=flat-square&logo=pyside&logoColor=white)
 
 **Cloud Know-How**:
 
