@@ -34,6 +34,8 @@ I love designing and building projects that involve web development 🌐, multip
 ![WebSockets](https://img.shields.io/badge/-WebSockets-000000?style=flat-square)
 ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
 ![PySide6](https://img.shields.io/badge/-PySide6-3ECA4F?style=flat-square&logo=pyside&logoColor=white)
+![MyPy](https://img.shields.io/badge/-MyPy-3776AB?style=flat-square&logo=mypy&logoColor=white)
+![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=python&logoColor=white)
 
 **Cloud Know-How**:
 
