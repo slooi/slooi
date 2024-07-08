@@ -1,14 +1,7 @@
-# Hello World!  🚀
 
-## Welcome to my GitHub space! 👋
-I'm a software developer and type safety enjoyer
+`Writing code now, so AI can debug it later`
 
-My favourite languages are Typescript and Python (preferably with type hints 😊)
-
-I love designing and building projects that involve web development 🌐, multiplayer experiences 🤼‍♂️, machine learning algorithms 🤖 or graphics programming 🎨
-
-
-## 🛠️ Tech Toolbox:
+## My Toolbox:
 **Languages**:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F4DC1B?style=flat-square&logo=javascript&logoColor=white)
@@ -35,9 +28,6 @@ I love designing and building projects that involve web development 🌐, multip
 ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
 ![PySide6](https://img.shields.io/badge/-PySide6-3ECA4F?style=flat-square&logo=pyside&logoColor=white)
 ![MyPy](https://img.shields.io/badge/-MyPy-3776AB?style=flat-square&logo=mypy&logoColor=white)
-
-**Cloud Know-How**:
-
 ![AWS EC2](https://img.shields.io/badge/-AWS_EC2-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure App Service](https://img.shields.io/badge/-Azure_App_Service-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
