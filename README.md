@@ -1,5 +1,5 @@
 
-`Writing code now, so AI can debug it later`
+`Coding like a wizard, without the pointy hat`
 
 ## My Toolbox:
 **Languages**:
