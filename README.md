@@ -1,7 +1,7 @@
 
-`Coding like a wizard, without the pointy hat`
+<i>`Coding like a wizard, without the pointy hat`</i>
 
-## My Toolbox:
+# My Toolbox:
 **Languages**:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F4DC1B?style=flat-square&logo=javascript&logoColor=white)
